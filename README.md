@@ -1,8 +1,8 @@
 # 19AI304-Fundamentals-of-C-Programming-2025-Odd-M1
 
-## NAME : Prateesh kumar . N
-## REG NO :212224020041
-## Date: 11-09-2025
+## NAME : SRIDHAR C
+## REG NO :212225040425
+## Date:
 
 # IAPR-1- Module 1 - FoC
 ## 1. Implementation of basic C programs using Literals,Consonants, Variables, Data types.
